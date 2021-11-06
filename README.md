@@ -18,7 +18,12 @@ Add-on for Job application. Mainly papers, pictures, deliverables...Fancy stuff 
 
   Published Conference paper in 2021 IEEE ITSC, serves to formualte and realize an algorithm that balances between reliability and speed in stochastic network
   
-**5.EVTOL_XXXX Pictures**
+  
+**5.AE416_Term_Project**
+
+ Project Proposal for application of CNN in airfoil optimization... Just the proposal for now, the real deal should be here about end of the semester (I hope)
+  
+**6.EVTOL_XXXX Pictures**
 
   Visualized CFD results for the EVTOL aerodynamic study. Doesn't mean much by themselves, but with the data collected, they offer valuable suggestions of how EVTOL should be designed
   
