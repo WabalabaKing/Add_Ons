@@ -11,7 +11,7 @@ Add-on for Job application. Mainly papers, pictures, deliverables...Fancy stuff 
   
 **3.Mission Adaptive Lifting System Design Using Integrated Multidisciplinary Topology Optimization**
 
-  Published Conference Paper for AIAAA Aviation and Aeronautics 2020, serves as a proof of concept for morphing airfoil, and how they may out perform optimized conventional airfoil in an operation with multiple flight conditions
+  Published Conference Paper for AIAA Aviation and Aeronautics 2020, serves as a proof of concept for morphing airfoil, and how they may out perform optimized conventional airfoil in an operation with multiple flight conditions
   
 **4. Optimal Routing in Stochastic Networks with Reliability Guarantees**
 
