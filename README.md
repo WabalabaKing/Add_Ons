@@ -23,7 +23,5 @@ Add-on for Job application. Mainly papers, pictures, deliverables...Fancy stuff 
 
  Project Proposal for application of CNN in airfoil optimization... Just the proposal for now, the real deal should be here about end of the semester (I hope)
   
-**6.EVTOL_XXXX Pictures**
 
-  Visualized CFD results for the EVTOL aerodynamic study. Doesn't mean much by themselves, but with the data collected, they offer valuable suggestions of how EVTOL should be designed
   
