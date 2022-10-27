@@ -7,7 +7,7 @@ Add-on for Job application. Mainly papers, pictures, deliverables...Fancy stuff 
   
 **2.Final Design Proposal AIAA Design Competition 2021**
 
-  Final Design Proposal for a light attack aircraft. Sadly this didnt win us a prize.(But really tho, 3rd place is a baby version of A-10 Thunderbolt, you call that light attack?)
+  Final Design Proposal for a light attack aircraft. Sadly this didnt win us a prize.
   
 **3.Mission Adaptive Lifting System Design Using Integrated Multidisciplinary Topology Optimization**
 
